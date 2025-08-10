@@ -6,7 +6,7 @@
   "id": "did:web:Mohit14036.github.io:my-did-config",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkh1QRU5fJniWjoSvJvcPrmvBXaiYLQB6ooP73UYkM5fgg",
+      "publicKeyMultibase": "z6MkjgasCHdXgiz8tpDMyKYCDd4Kp4PN9mUTkFyDH7k59mWX",
       "controller": "did:web:Mohit14036.github.io:my-did-config",
       "id": "did:web:Mohit14036.github.io:my-did-config#key-0",
       "type": "Ed25519VerificationKey2020",
@@ -20,4 +20,5 @@
   "authentication": [
     "did:web:Mohit14036.github.io:my-did-config#key-0"
   ]
+
 }
